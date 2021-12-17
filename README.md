@@ -10,3 +10,6 @@ IoT and Cloud Enabled PC authentication using RFID tag with user login audit in 
   * Pusher Beams Client
   * AWS EC2
 * Android Studio
+
+###Circuit Diagram:
+![Circuit Diagram](circuit.jpg)
