@@ -11,5 +11,5 @@ IoT and Cloud Enabled PC authentication using RFID tag with user login audit in 
   * AWS EC2
 * Android Studio
 
-###Circuit Diagram:
-![Circuit Diagram](circuit.jpg)
+### Circuit Diagram:
+![Circuit Diagram](circuit.jpg = 250x250)
