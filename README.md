@@ -12,4 +12,4 @@ IoT and Cloud Enabled PC authentication using RFID tag with user login audit in 
 * Android Studio
 
 ### Circuit Diagram:
-![Circuit Diagram](circuit.jpg){height="100px" width="100px"}
+![Circuit Diagram](circuit.jpg){:height="100px" width="100px"}
